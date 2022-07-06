@@ -196,14 +196,41 @@ font-size: 20px;
 .half-width1 img{
     width: 100%;
 }
-.half-width2{
-    width:40%;
-    float: Left;
-    margin-left: 5%;
-    padding-left: 2%
+.donation2{
+    text-align: center;
+    padding-top: 40px;
+    background-image: url(images/donation5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-attachment: fixed;
+   
+   
 }
-.half-width2 img{
-    width: 100%;
+.more{
+    color: black;
+}
+.charity{
+    display: flex;
+    text-align: center;
+    margin-left: 520px;
+    
+}
+.anchor-button10{
+    text-decoration: none;
+    background: linear-gradient(red, orange);
+    padding: 10px 30px;
+    margin-right: 50px;
+    color: white;
+    font-weight: 700;
+}
+.anchor-button11{
+    text-decoration: none;
+    background: linear-gradient(red, orange);
+    padding: 10px 30px;
+   margin-left: 50px;
+    color: white;
+    font-weight: 700;
+   
 }
 .depend2{
     font-size: 30PX;
