@@ -125,11 +125,11 @@ font-size: 20px;
   }
   .food{
     
-   background-color: bisque;
+    background-color: lightcyan;
    text-align: left;
     font-size: 20px;
     padding : 30px 20px;
-    margin: 10px;
+    margin-left: 100px;
     width: 20%;
    
    
@@ -145,24 +145,24 @@ font-size: 20px;
 }
 .shelter{
     
-    background-color: bisque;
+    background-color: antiquewhite;
    text-align: left;
     font-size: 20px;
     padding: 30px 20px;
-    margin: 10px;
     width: 20%;
+    margin-left: 100px;
   
    
 
 }
 .education{
    
-    background-color: bisque;
+    background-color: lemonchiffon;
    text-align: left;
     font-size: 20px;
     padding: 30px 20px;
-    margin: 10px;
     width: 20%;
+    margin-left: 100px;
    
    
 
@@ -215,5 +215,60 @@ font-size: 20px;
 }
 .depend2{
     font-size: 30PX;
+    
 }
+.update{
+    color: black;
+}
+.update1{
+    text-align: center;
+    font-size: 20px;
+}
+.input-button{
+    display: flex;
+   background-color: antiquewhite;
+   height: 250px;
+   width: 700px;
+   margin-left: 320px;
+   margin-top: 100px;
+   
+    
+   
+}
+.email{
+    height: 30px;
+    width: 210px;
+    margin-left:200px;
+    margin-top: 100px; 
+   
+}
+.anchor3{
+    text-decoration: none;
+    background: linear-gradient(red, orange);
+    padding:8.38px 30px ;
+    border: 5px;
+    color: white;
+    font-weight: 700px;
+    
  
+  
+    
+  
+    
+
+}
+.anchor4{
+    padding-top: 8.5px;
+    margin-top: 100px; 
+}
+footer{
+    text-align: center;
+    background-color: black;
+   color: #ff5959;
+   height: 150px;
+  
+}
+.last-part{
+    font-size: 25px;
+    padding-top: 30px;
+}
