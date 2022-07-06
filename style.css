@@ -1,16 +1,11 @@
 body{
-    font-family: 'Lora', serif;
-    
-    
-    
+    font-family: 'Lora', serif;  
 }
 
 h1{
     font-size: 50px;
     text-align: center;
     color: white;
-    
-  
 }
 section{
     height : 500px;
@@ -23,7 +18,6 @@ section{
     background-repeat: no-repeat;
     background-size: cover ;
     background-attachment: fixed;
-  
 }
 
 .donate{
@@ -32,11 +26,6 @@ section{
     font-size: 30px;
     text-align: center;
 }
-
-    
-  
-
-
 #line{
     font-size: 20px;
     text-align: center;
@@ -62,8 +51,6 @@ font-size: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
-   
- 
 }
 .second-part {
     font-size: 30px;
@@ -103,16 +90,37 @@ font-size: 20px;
     text-align: center;
     font-size: 18px;
     color: #707070;
+    
   }
   .anchor-button1{
-    
     text-decoration: none;
     background: linear-gradient(red, orange);
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
     font-weight: 700;
+ 
+    
+   
+ 
   }
+  input{
+    outline: none;
+  }
+  .an3{
+    outline: none;
+    overflow: visible;
+    border: none;
+    
+  }
+
+
+
+  .an2{
+    margin-top: 25px;
+  }
+   
+  
   .plan{
     padding-top:70px;
     text-align: center;
@@ -131,10 +139,6 @@ font-size: 20px;
     padding : 30px 20px;
     margin-left: 100px;
     width: 20%;
-   
-   
-
-   
   }
   .text{
     font-size: 15px;
@@ -144,28 +148,20 @@ font-size: 20px;
 
 }
 .shelter{
-    
     background-color: antiquewhite;
    text-align: left;
     font-size: 20px;
     padding: 30px 20px;
     width: 20%;
     margin-left: 100px;
-  
-   
-
 }
 .education{
-   
     background-color: lemonchiffon;
    text-align: left;
     font-size: 20px;
     padding: 30px 20px;
     width: 20%;
     margin-left: 100px;
-   
-   
-
 }
 .depend{
     color: black;
@@ -196,8 +192,6 @@ font-size: 20px;
     float: right;
     margin-left: 5%;
     padding-left: 2%
-
-
 }
 .half-width1 img{
     width: 100%;
@@ -207,8 +201,6 @@ font-size: 20px;
     float: Left;
     margin-left: 5%;
     padding-left: 2%
-
-
 }
 .half-width2 img{
     width: 100%;
@@ -249,13 +241,6 @@ font-size: 20px;
     border: 5px;
     color: white;
     font-weight: 700px;
-    
- 
-  
-    
-  
-    
-
 }
 .anchor4{
     padding-top: 8.5px;
