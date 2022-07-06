@@ -32,7 +32,7 @@ section{
     font-size: 30px;
     text-align: center;
 }
-    
+
     
   
 
@@ -113,4 +113,107 @@ font-size: 20px;
     color: white;
     font-weight: 700;
   }
+  .plan{
+    padding-top:70px;
+    text-align: center;
+    color: black;
+  }
+  .font{
+    font-size: 20px;
+    text-align: center;
+    color: black;
+  }
+  .food{
+    
+   background-color: bisque;
+   text-align: left;
+    font-size: 20px;
+    padding : 30px 20px;
+    margin: 10px;
+    width: 20%;
+   
+   
+
+   
+  }
+  .text{
+    font-size: 15px;
+  }
+.main{
+    display: flex;
+
+}
+.shelter{
+    
+    background-color: bisque;
+   text-align: left;
+    font-size: 20px;
+    padding: 30px 20px;
+    margin: 10px;
+    width: 20%;
+  
+   
+
+}
+.education{
+   
+    background-color: bisque;
+   text-align: left;
+    font-size: 20px;
+    padding: 30px 20px;
+    margin: 10px;
+    width: 20%;
+   
+   
+
+}
+.depend{
+    color: black;
+}
+.depend1{
+    font-size: 20px;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%
+      
+}
+.half-width img{
+    width: 100%;
+}
+.anchor-button2{
+    text-decoration: none;
+    background: linear-gradient(red, orange);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.half-width1{
+    width:40%;
+    float: right;
+    margin-left: 5%;
+    padding-left: 2%
+
+
+}
+.half-width1 img{
+    width: 100%;
+}
+.half-width2{
+    width:40%;
+    float: Left;
+    margin-left: 5%;
+    padding-left: 2%
+
+
+}
+.half-width2 img{
+    width: 100%;
+}
+.depend2{
+    font-size: 30PX;
+}
  
