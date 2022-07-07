@@ -199,7 +199,7 @@ font-size: 20px;
 .donation2{
     text-align: center;
     padding-top: 40px;
-    background-image: url(images/donation5.jpg);
+    background-image: url(images/donation6.jpg);
     background-repeat: no-repeat;
     background-size: cover ;
     background-attachment: fixed;
@@ -217,7 +217,7 @@ font-size: 20px;
 }
 .anchor-button10{
     text-decoration: none;
-    background: linear-gradient(red, orange);
+    background: linear-gradient(blue, black);
     padding: 10px 30px;
     margin-right: 50px;
     color: white;
@@ -225,7 +225,7 @@ font-size: 20px;
 }
 .anchor-button11{
     text-decoration: none;
-    background: linear-gradient(red, orange);
+    background: linear-gradient(blue, black);
     padding: 10px 30px;
    margin-left: 50px;
     color: white;
